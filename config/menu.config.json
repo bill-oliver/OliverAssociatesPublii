@@ -384,11 +384,11 @@
                     {
                         "id": 1685041550210,
                         "label": "1.01-2: Kelvinator 1927 Refrigerator with Remote Condensing Unit",
-                        "title": "",
+                        "title": "1.01-2: Kelvinator 1927 Refrigerator",
                         "type": "post",
                         "target": "_self",
                         "rel": "",
-                        "link": 218,
+                        "link": 394,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
@@ -396,11 +396,11 @@
                     {
                         "id": 1685383087736,
                         "label": "4.02-13: Frigidaire 1937 Condensing Unit",
-                        "title": "",
+                        "title": "Frigidaire ",
                         "type": "post",
                         "target": "_self",
                         "rel": "",
-                        "link": 123,
+                        "link": 409,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
