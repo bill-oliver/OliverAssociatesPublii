@@ -134,8 +134,8 @@
             "ytNoCookies": false,
             "settingsVersion": "v2"
         },
-        "relatedPostsOrder": "default",
-        "relatedPostsCriteria": "titles-and-tags",
+        "relatedPostsOrder": "id-asc",
+        "relatedPostsCriteria": "tags",
         "relatedPostsIncludeAllPosts": true,
         "editors": {
             "wysiwygAdditionalValidElements": "",

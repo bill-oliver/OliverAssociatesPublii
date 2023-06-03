@@ -921,7 +921,7 @@
                 "rel": "",
                 "link": "",
                 "cssClass": "",
-                "isHidden": false,
+                "isHidden": true,
                 "items": [
                     {
                         "id": 1685041550210,
