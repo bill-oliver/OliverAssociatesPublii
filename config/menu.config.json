@@ -901,6 +901,18 @@
                 ]
             },
             {
+                "id": 1684002891283,
+                "label": "Gallery",
+                "title": "",
+                "type": "tags",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1682886328770,
                 "label": "Contact",
                 "title": "",
@@ -932,7 +944,7 @@
                         "rel": "",
                         "link": 394,
                         "cssClass": "",
-                        "isHidden": false,
+                        "isHidden": true,
                         "items": []
                     },
                     {
@@ -943,18 +955,6 @@
                         "target": "_self",
                         "rel": "",
                         "link": 409,
-                        "cssClass": "",
-                        "isHidden": false,
-                        "items": []
-                    },
-                    {
-                        "id": 1684002891283,
-                        "label": "tags",
-                        "title": "",
-                        "type": "tags",
-                        "target": "_self",
-                        "rel": "",
-                        "link": "empty",
                         "cssClass": "",
                         "isHidden": false,
                         "items": []

@@ -83,8 +83,8 @@
         "socialVimeo": "",
         "socialPinterest": "",
         "socialYoutube": "",
-        "searchFeature": false,
-        "createSearchPage": false,
+        "searchFeature": true,
+        "createSearchPage": true,
         "galleryItemGap": "0.5rem",
         "galleryLightboxStyle": "pswp--dark",
         "galleryLightboxOpacity": "0.7",
@@ -117,7 +117,7 @@
         "displayTags": "1",
         "displayNewsletter": 1,
         "displayComments": 0,
-        "displayRelatedPosts": 1
+        "displayRelatedPosts": "0"
     },
     "tagConfig": {
         "displayPostCounter": 1,
