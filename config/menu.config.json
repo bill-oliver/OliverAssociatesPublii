@@ -157,7 +157,44 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813003016,
+                                        "label": "1.01: Household Refrigerators",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 46,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813027268,
+                                        "label": "1.02: Household Air Conditioners ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 48,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813102471,
+                                        "label": "1.03: Commercial Refrigerating Equipment ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 88,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683293147562,
@@ -169,7 +206,32 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813136920,
+                                        "label": "2.01: Household Evaporators",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 68,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813158063,
+                                        "label": "2.02: Commercial Evaporators",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 66,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683926600386,
@@ -181,7 +243,44 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813199169,
+                                        "label": "3.01: Household Refrigerant Flow Controls",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 67,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813219817,
+                                        "label": "3.02: Commercial Refrigerant Flow Controls",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 80,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813254737,
+                                        "label": "3.03: NEC Refrigerant Flow Controls",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 69,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683926634059,
@@ -193,7 +292,32 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813287107,
+                                        "label": "4.01: Household Condensing Units",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 89,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813314749,
+                                        "label": "4.02: Commercial Condensing Units",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 72,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683926663996,
@@ -205,7 +329,32 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813355526,
+                                        "label": "5.01: Household Compressors",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 71,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813383286,
+                                        "label": "5.02: Commercial Compressors",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 73,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683926697453,
@@ -217,7 +366,32 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813432783,
+                                        "label": "6.01: Household Condensers and Receivers",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 74,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813452072,
+                                        "label": "6.02: Commercial Condensers and Receivers ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 75,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683926765943,
@@ -229,7 +403,32 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813477921,
+                                        "label": "7.01: Household Pressure and Temperature Controls",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 86,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813502961,
+                                        "label": "7.02: Commercial Pressure and Temperature Controls ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 81,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1684532771198,
@@ -241,7 +440,44 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813533265,
+                                        "label": "8.01: Household Refrigerating Components and Parts ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 77,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813553147,
+                                        "label": "8.02: Commercial Refrigerating Components and Parts",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 78,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813574939,
+                                        "label": "8.03: NEC Refrigerating Components and Parts",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 79,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -266,7 +502,44 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813631541,
+                                        "label": "10.02: Water Heating",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 52,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813673492,
+                                        "label": "10.06: Solid Fuel Flow Ignition and Combustion Controls",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 70,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813704582,
+                                        "label": "10.08: Solid Fuel Burner Components and Parts",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 82,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683927142728,
@@ -278,7 +551,32 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813739831,
+                                        "label": "11.01: Vaporizing Oil Burners",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 87,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813761191,
+                                        "label": "11.03: Liquid Fuel Space Heating ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 83,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683927167873,
@@ -290,7 +588,116 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685813803713,
+                                        "label": "12.01: Pressure Atomizing Oil Burners",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 47,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813856498,
+                                        "label": "12.05: Oil Burner Firing Assemblies",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 49,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813880211,
+                                        "label": "12.06: Oil Burner Fuel Pumps",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 50,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813905027,
+                                        "label": "12.07: Oil Ignition Devices ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 51,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813936187,
+                                        "label": "12.08: Oil Burner Combustion Controls",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 85,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813963387,
+                                        "label": "12.09: Oil Burner Temperature Controls ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 53,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685813993548,
+                                        "label": "12.10: Oil Burner Room Thermostats ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 84,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814021422,
+                                        "label": "12.11: Oil Burner Components and Parts",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 76,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814042494,
+                                        "label": "12.12: Oil Burner Installation, Test and Repair",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 54,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             },
                             {
                                 "id": 1683927206707,
@@ -302,7 +709,44 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685814089944,
+                                        "label": "14.02: Electric Water Heating",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 56,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814112704,
+                                        "label": "14.03: Electric Space Heating ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 55,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814140376,
+                                        "label": "14.05: Electric Room Thermostats",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 58,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -327,7 +771,20 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685814170145,
+                                        "label": "15.02: Ventilation - Commercial",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 57,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -352,7 +809,92 @@
                                 "link": "",
                                 "cssClass": "",
                                 "isHidden": false,
-                                "items": []
+                                "items": [
+                                    {
+                                        "id": 1685814216882,
+                                        "label": "16.01: Single Phase, Repulsion Induction and Repulsion Motors",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 59,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814244828,
+                                        "label": "16.02:  Single Phase Capacitor Start and Run Motors",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 61,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814278019,
+                                        "label": "16.03: Single and Split Phase Motors",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 60,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814344342,
+                                        "label": "16.04: Shaded Pole and Universal Motors",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 62,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814373336,
+                                        "label": "16.06: Electric Motors - Components and Parts ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 65,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814423480,
+                                        "label": "16.07: Electric Motors - Installation, Test and Repair",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 64,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1685814457584,
+                                        "label": "16.08: Electric Motors - NEC ",
+                                        "title": "",
+                                        "type": "tag",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 63,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
                             }
                         ]
                     }
