@@ -98,7 +98,7 @@
         "galleryPreloader": true,
         "galleryCloseOnScroll": true,
         "galleryArrowKeys": true,
-        "animatedLines": true,
+        "animatedLines": false,
         "animatedLinesDuration": "8",
         "backToTopButton": true,
         "formatDate": "MMMM D, YYYY",
@@ -117,7 +117,7 @@
         "displayTags": "1",
         "displayNewsletter": 1,
         "displayComments": 0,
-        "displayRelatedPosts": "0"
+        "displayRelatedPosts": "1"
     },
     "tagConfig": {
         "displayPostCounter": 1,

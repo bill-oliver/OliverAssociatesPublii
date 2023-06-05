@@ -56,7 +56,7 @@
         "authorNoIndexPagination": false,
         "authorNoPagination": false,
         "displayEmptyAuthors": false,
-        "displayEmptyTags": false,
+        "displayEmptyTags": true,
         "errorMetaTitle": "Error 404 - %sitename",
         "errorMetaDescription": "",
         "metaRobotsError": "noindex, follow",
@@ -136,7 +136,7 @@
         },
         "relatedPostsOrder": "id-asc",
         "relatedPostsCriteria": "tags",
-        "relatedPostsIncludeAllPosts": true,
+        "relatedPostsIncludeAllPosts": false,
         "editors": {
             "wysiwygAdditionalValidElements": "",
             "customElements": "",
