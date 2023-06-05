@@ -83,7 +83,7 @@
         "socialVimeo": "",
         "socialPinterest": "",
         "socialYoutube": "",
-        "searchFeature": true,
+        "searchFeature": false,
         "createSearchPage": true,
         "galleryItemGap": "0.5rem",
         "galleryLightboxStyle": "pswp--dark",
