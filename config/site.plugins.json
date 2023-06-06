@@ -1,3 +1,4 @@
 {
-    "googleCustomSearch": false
+    "googleCustomSearch": false,
+    "staticSearch": true
 }
