@@ -84,7 +84,7 @@
         "socialPinterest": "",
         "socialYoutube": "",
         "searchFeature": true,
-        "createSearchPage": false,
+        "createSearchPage": true,
         "galleryItemGap": "0.5rem",
         "galleryLightboxStyle": "pswp--dark",
         "galleryLightboxOpacity": "0.7",

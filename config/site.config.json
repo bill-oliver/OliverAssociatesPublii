@@ -19,7 +19,7 @@
         "forceWebp": false,
         "webpLossless": false,
         "responsiveImages": false,
-        "mediaLazyLoad": 1,
+        "mediaLazyLoad": true,
         "versionSuffix": 1,
         "sitemapEnabled": 1,
         "sitemapAddTags": false,
@@ -161,12 +161,12 @@
         "customFooterAmpCode": ""
     },
     "deployment": {
-        "protocol": "google-cloud",
+        "protocol": "manual",
         "relativeUrls": false,
         "port": "",
         "server": "",
         "username": "",
-        "password": "",
+        "password": "publii uuid-1677782701431-642667481",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -176,8 +176,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "",
-            "key": "",
+            "id": "publii-s3-id uuid-1677782701431-642667481",
+            "key": "publii-s3-key uuid-1677782701431-642667481",
             "bucket": "",
             "region": "",
             "prefix": "",
@@ -197,11 +197,11 @@
             "server": "https://gitlab.com/",
             "repo": "",
             "branch": "",
-            "token": ""
+            "token": "publii-gl-token uuid-1677782701431-642667481"
         },
         "netlify": {
-            "id": "",
-            "token": ""
+            "id": "publii-netlify-id uuid-1677782701431-642667481",
+            "token": "publii-netlify-token uuid-1677782701431-642667481"
         },
         "google": {
             "key": "C:\\Users\\boliv\\OneDrive\\Documents\\keys\\oliverassociates-f3b5df9c1877.json",
@@ -210,9 +210,9 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": ""
+            "outputDirectory": "C:\\Users\\boliv\\OneDrive\\Documents\\Projects\\Website"
         }
     },
     "theme": "persona_free",
-    "syncDate": 1686073995823
+    "syncDate": 1686600452488
 }
