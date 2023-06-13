@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-pizza"
     },
-    "domain": "https://www.oliverassociates.ca",
+    "domain": "https://oliverassociates.ca",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -166,7 +166,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii uuid-1677782701431-642667481",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -176,8 +176,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1677782701431-642667481",
-            "key": "publii-s3-key uuid-1677782701431-642667481",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "prefix": "",
@@ -197,11 +197,11 @@
             "server": "https://gitlab.com/",
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1677782701431-642667481"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1677782701431-642667481",
-            "token": "publii-netlify-token uuid-1677782701431-642667481"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "C:\\Users\\boliv\\OneDrive\\Documents\\keys\\oliverassociates-f3b5df9c1877.json",
@@ -214,5 +214,5 @@
         }
     },
     "theme": "persona_free",
-    "syncDate": 1686600452488
+    "syncDate": 1686656787695
 }
