@@ -842,87 +842,92 @@
     {
         "path": "3.01-10A.html",
         "type": "file",
-        "md5": "b33544c20e72fd8252a0ef8990622469"
+        "md5": "105d6d3b77c97d6e8962c6c099b62589"
     },
     {
         "path": "3.01-10B.html",
         "type": "file",
-        "md5": "a0b615a14ef03f35f74b742ddc5b5015"
+        "md5": "262649d9a9f6cb7c9119cbfe4db16213"
     },
     {
         "path": "3.01-11.html",
         "type": "file",
-        "md5": "7f576a3fb1050b1aab704663f5bf9f4d"
+        "md5": "acf87cb60573a0e5a227ef0cc36b1ad5"
     },
     {
         "path": "3.01-12.html",
         "type": "file",
-        "md5": "0c840b5b0d196a7b4b4bb506779ad84a"
+        "md5": "e9aabcb2d9dd7a1c3daae649ae6a22bc"
     },
     {
         "path": "3.01-1A.html",
         "type": "file",
-        "md5": "2bef7473af141a1a7684cd40b9b21948"
+        "md5": "f2e1c1c31854bd5445270138a33384f9"
+    },
+    {
+        "path": "3.01-1B.html",
+        "type": "file",
+        "md5": "eea969535b5fbd6bd0a4a131ec7f877b"
     },
     {
         "path": "3.01-1C.html",
         "type": "file",
-        "md5": "107c545f597e47b53621f4fddcc4682f"
+        "md5": "14343b6fb71c633d3c43f5110bddce6d"
     },
     {
         "path": "3.01-2.html",
         "type": "file",
-        "md5": "e000e037ceaf4b9d766dc1fe310ab42c"
+        "md5": "476ac33f6bda8c4f27036cbcdecab03e"
     },
     {
         "path": "3.01-3A.html",
         "type": "file",
-        "md5": "362c1d53d5fe6fce995e9c2adbbe3042"
+        "md5": "46222e11b7e673dd7fa72e0077f3d1f9"
     },
     {
         "path": "3.01-3B.html",
         "type": "file",
-        "md5": "e7f3bb1641f83fd4b19534c5be3d8a86"
+        "md5": "9a58161466044f2630f6a28809aa541f"
     },
     {
         "path": "3.01-4.html",
         "type": "file",
-        "md5": "37046152fbeee200f38538bbb8efb5ed"
+        "md5": "2b905ff9c87cc509b6b6e59391272425"
     },
     {
         "path": "3.01-5A.html",
         "type": "file",
-        "md5": "98ec3d9c15435cd29e289bccbe012ef2"
+        "md5": "438be10909dcb2d8504b0e543cccd95c"
     },
     {
         "path": "3.01-5B.html",
         "type": "file",
-        "md5": "5d9a19b7d1268a87ecc40c8114dfb9c1"
+        "md5": "eb8ec2533551568749db2820bc8a1bc5"
     },
     {
         "path": "3.01-6.html",
         "type": "file",
-        "md5": "75b960bee9a45111b8ac4c5d94f72fe3"
+        "md5": "317ddc28b45bd720a70de7d7f8353d0c"
     },
     {
         "path": "3.01-7.html",
         "type": "file",
-        "md5": "4788f2ddc105ba402524eebbfeacd202"
+        "md5": "c5036248ec6ca97d293748319b8ac6bf"
     },
     {
         "path": "3.01-8.html",
         "type": "file",
-        "md5": "2aa357042c27097daf986cd6ec6a18da"
+        "md5": "0657d40b8fc011ff75365a115514db12"
     },
     {
         "path": "3.01-9A.html",
         "type": "file",
-        "md5": "9f2ee4d9e148241e6ee1ec99a4c920a2"
+        "md5": "b8ada67a16c69fc0bf29fcf88bcdbf7e"
     },
     {
         "path": "3.01-9B.html",
         "type": "file",
-        "md5": "97f9895d85b2975629a05692ebc9bae7"
+        "md5": "1a80392a668f39adea9b027dd339dce5"
     },
     {
         "path": "3.02-1.html",
@@ -1058,11 +1063,6 @@
         "path": "3.03-9.html",
         "type": "file",
         "md5": "0eca20445b3d793b44b002ce5e5cb3bb"
-    },
-    {
-        "path": "301-1b.html",
-        "type": "file",
-        "md5": "e5a49f146def04e36b872643ba0bf30a"
     },
     {
         "path": "4.01-10.html",
@@ -1967,7 +1967,7 @@
     {
         "path": "/authors/bo/page/19/index.html",
         "type": "file",
-        "md5": "4d7e7b70e0aaad87954792c825621310"
+        "md5": "b9fb9971ab3fb609585036f490c54ae0"
     },
     {
         "path": "authors/bo/page/2",
@@ -2382,7 +2382,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "5df27ae5a4af6a8187e23549daadf613"
+        "md5": "b1e5444ba98bb543aa6e20a8ed5ab3ee"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -30867,7 +30867,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "6a4d7d9bd9274bba250755dd189757c0"
+        "md5": "886b1878a81e92aee5d0697bece9410a"
     },
     {
         "path": "sitemap.xsl",
@@ -31192,7 +31192,7 @@
     {
         "path": "/tags/3_01/index.html",
         "type": "file",
-        "md5": "83e6f1dcf83d0d5d218c5299beaa9f7a"
+        "md5": "0cc5eedfcd758f8668d8211e812fc84c"
     },
     {
         "path": "tags/3_02",
